@@ -1,4 +1,5 @@
 {
+  "name":"react-scripts",
   "private": true,
   "workspaces": [
     "packages/*"
